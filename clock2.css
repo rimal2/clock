@@ -1,0 +1,24 @@
+*{
+    background-attachment: fixed;
+}
+#clock {
+    font-size: 175px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 50px solid rgb(130, 221, 26);
+    border-radius: 20px;
+    background-color: rgb(33, 153, 153);
+    color: rgb(212, 49, 27);
+}
+.red{
+
+    text-align: center;
+    
+   
+    border: 10px solid greenyellow ;
+    border: radius 10px; 
+    background-color: tomato;
+    color: black;
+
+}
